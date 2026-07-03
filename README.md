@@ -1,5 +1,9 @@
 # 🚀 Counter App
 
+## 🌐 Live Demo
+
+👉 https://ulaserden.github.io/counter-app/
+
 A modern, responsive Counter Application built with Vanilla JavaScript.
 
 This project was developed to strengthen my understanding of JavaScript fundamentals, DOM manipulation, responsive design, modular architecture, and modern frontend development practices.
@@ -52,6 +56,9 @@ counter-app/
 │
 └── assets/
 ```
+## 📸 Preview
+
+![Counter App](assets/screenshot.png)
 
 ---
 
