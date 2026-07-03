@@ -58,8 +58,8 @@ counter-app/
 ```
 ## 📸 Preview
 
-![Counter App](assets/screenshot.png)
-
+![Counter App](assets/screenshot-1.png)
+![Counter App](assets/screenshot-2.png)
 ---
 
 ## 🚀 Getting Started
