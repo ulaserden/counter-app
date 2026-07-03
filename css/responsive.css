@@ -1,0 +1,35 @@
+@media (min-width: 768px) {
+    .main-app {
+        max-width: var(--space-lg);
+        padding: var(--space-xl);
+        gap: var(--space-xl);
+    }
+    .counter-value {
+        font-size: 3.5rem;
+    }
+
+    .counter-controls {
+        gap: var(--space-lg);
+    }
+
+    .btn {
+        font-size: 1.05rem;
+        padding: var(--space-md) var(--space-lg);
+    }
+}
+
+@media (min-width: 1024px) {
+
+    .main-app {
+        max-width: 28rem;
+        padding: 2rem;
+    }
+
+    .counter-value {
+        font-size: 4rem;
+    }
+
+    .btn:hover {
+        transform: translateY(-3px);
+    }
+}
