@@ -74,23 +74,6 @@ Open the project with **Live Server**.
 
 ---
 
-## 📚 What I Learned
-
-During this project, I practiced:
-
-- Semantic HTML
-- CSS Variables (Design Tokens)
-- Responsive Design
-- Flexbox
-- DOM Manipulation
-- Event Handling
-- State Management
-- Modular JavaScript (ES Modules)
-- Dark Mode implementation
-- Project organization
-
----
-
 ## 🔮 Future Improvements
 
 - Keyboard shortcuts
@@ -143,21 +126,6 @@ Bu proje, JavaScript temellerini, DOM manipülasyonunu, responsive tasarımı, m
 ## 🚀 Kurulum
 
 Projeyi klonlayın ve Live Server ile çalıştırın.
-
----
-
-## 📚 Bu Projede Öğrendiklerim
-
-- Semantic HTML
-- Responsive Design
-- CSS Variables
-- Flexbox
-- DOM Manipulation
-- Event Listener kullanımı
-- State Management
-- ES Modules
-- Dark Mode
-- Profesyonel proje organizasyonu
 
 ---
 
